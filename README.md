@@ -4,8 +4,6 @@ Hi 👋 My name is Rosemary Nwosu-Ihueze
 Software Developer
 -----------------------------------
 
-I'm a junior majoring in computer science with an associate degree in computer programming. I have been a frontend developer for 2 years, machine learning hobbyist for 1 year, blockchain developer for 8 months and a UX designer for 3 months.
-
 * 🌍  I'm based in Kentucky
 * 🖥️  See my portfolio at [My portfolio](http://nneoma-ihueze.com/)
 * ✉️  You can contact me at [Nwosunneoma@gmail.com](mailto:Nwosunneoma@gmail.com)
